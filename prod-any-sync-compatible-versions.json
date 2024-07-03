@@ -1,0 +1,198 @@
+{
+    "1691798204": {
+        "pkg::any-sync-coordinator": "0.2.6",
+        "pkg::any-sync-filenode": "0.3.4",
+        "pkg::any-sync-node": "0.2.9"
+    },
+    "1692094698": {
+        "pkg::any-sync-coordinator": "0.2.9",
+        "pkg::any-sync-filenode": "0.3.6",
+        "pkg::any-sync-node": "0.2.12"
+    },
+    "1695048418": {
+        "pkg::any-sync-coordinator": "0.3.0",
+        "pkg::any-sync-node": "0.3.1",
+        "pkg::any-sync-filenode": "0.4.1",
+        "pkg::any-sync-consensusnode": "0.1.1"
+    },
+    "1695053019": {
+        "pkg::any-sync-coordinator": "0.3.0",
+        "pkg::any-sync-filenode": "0.4.1",
+        "pkg::any-sync-consensusnode": "0.1.1",
+        "pkg::any-sync-node": "0.3.2"
+    },
+    "1696944897": {
+        "pkg::any-sync-coordinator": "0.3.0",
+        "pkg::any-sync-node": "0.3.3",
+        "pkg::any-sync-consensusnode": "0.1.1",
+        "pkg::any-sync-filenode": "0.4.1"
+    },
+    "1698239747": {
+        "pkg::any-sync-consensusnode": "0.1.1",
+        "pkg::any-sync-coordinator": "0.3.3",
+        "pkg::any-sync-filenode": "0.4.1",
+        "pkg::any-sync-node": "0.3.3"
+    },
+    "1698338777": {
+        "pkg::any-sync-consensusnode": "0.1.1",
+        "pkg::any-sync-coordinator": "0.3.5",
+        "pkg::any-sync-filenode": "0.4.1",
+        "pkg::any-sync-node": "0.3.3"
+    },
+    "1698861549": {
+        "pkg::any-sync-consensusnode": "0.1.1",
+        "pkg::any-sync-coordinator": "0.3.6",
+        "pkg::any-sync-filenode": "0.5.1",
+        "pkg::any-sync-node": "0.3.3"
+    },
+    "1699019132": {
+        "pkg::any-sync-consensusnode": "0.1.1",
+        "pkg::any-sync-coordinator": "0.3.6",
+        "pkg::any-sync-filenode": "0.5.2",
+        "pkg::any-sync-node": "0.3.3"
+    },
+    "1699203567": {
+        "pkg::any-sync-consensusnode": "0.1.1",
+        "pkg::any-sync-coordinator": "0.3.6",
+        "pkg::any-sync-filenode": "0.5.2",
+        "pkg::any-sync-node": "0.3.4"
+    },
+    "1699288372": {
+        "pkg::any-sync-consensusnode": "0.1.1",
+        "pkg::any-sync-coordinator": "0.3.6",
+        "pkg::any-sync-filenode": "0.5.3",
+        "pkg::any-sync-node": "0.3.4"
+    },
+    "1699976465": {
+        "pkg::any-sync-consensusnode": "0.1.1",
+        "pkg::any-sync-coordinator": "0.3.6",
+        "pkg::any-sync-filenode": "0.5.3",
+        "pkg::any-sync-node": "0.3.5"
+    },
+    "1701196600": {
+        "pkg::any-sync-consensusnode": "0.1.1",
+        "pkg::any-sync-coordinator": "0.3.6",
+        "pkg::any-sync-filenode": "0.5.4",
+        "pkg::any-sync-node": "0.3.5"
+    },
+    "1701207811": {
+        "pkg::any-sync-consensusnode": "0.1.1",
+        "pkg::any-sync-coordinator": "0.3.6",
+        "pkg::any-sync-filenode": "0.5.4",
+        "pkg::any-sync-node": "0.3.8"
+    },
+    "1705419935": {
+        "pkg::any-sync-consensusnode": "0.1.1",
+        "pkg::any-sync-coordinator": "0.3.6",
+        "pkg::any-sync-filenode": "0.5.4",
+        "pkg::any-sync-node": "0.3.14"
+    },
+    "1705431723": {
+        "pkg::any-sync-consensusnode": "0.1.1",
+        "pkg::any-sync-coordinator": "0.3.6",
+        "pkg::any-sync-filenode": "0.5.4",
+        "pkg::any-sync-node": "0.3.15"
+    },
+    "1705520387": {
+        "pkg::any-sync-consensusnode": "0.1.1",
+        "pkg::any-sync-coordinator": "0.3.6",
+        "pkg::any-sync-filenode": "0.5.4",
+        "pkg::any-sync-node": "0.3.17"
+    },
+    "1707748673": {
+        "pkg::any-sync-consensusnode": "0.1.1",
+        "pkg::any-sync-coordinator": "0.3.9",
+        "pkg::any-sync-filenode": "0.5.4",
+        "pkg::any-sync-node": "0.3.20"
+    },
+    "1708101890": {
+        "pkg::any-sync-consensusnode": "0.1.1",
+        "pkg::any-sync-coordinator": "0.3.10",
+        "pkg::any-sync-filenode": "0.5.4",
+        "pkg::any-sync-node": "0.3.20"
+    },
+    "1708531107": {
+        "pkg::any-sync-consensusnode": "0.1.3",
+        "pkg::any-sync-coordinator": "0.3.13",
+        "pkg::any-sync-filenode": "0.5.4",
+        "pkg::any-sync-node": "0.3.22"
+    },
+    "1708535029": {
+        "pkg::any-sync-consensusnode": "0.1.4",
+        "pkg::any-sync-coordinator": "0.3.13",
+        "pkg::any-sync-filenode": "0.5.4",
+        "pkg::any-sync-node": "0.3.22"
+    },
+    "1709125583": {
+        "pkg::any-sync-consensusnode": "0.1.4",
+        "pkg::any-sync-coordinator": "0.3.14",
+        "pkg::any-sync-filenode": "0.5.4",
+        "pkg::any-sync-node": "0.3.23"
+    },
+    "1711475955": {
+        "pkg::any-sync-consensusnode": "0.1.5",
+        "pkg::any-sync-coordinator": "0.3.17",
+        "pkg::any-sync-filenode": "0.6.0",
+        "pkg::any-sync-node": "0.3.25"
+    },
+    "1711538102": {
+        "pkg::any-sync-consensusnode": "0.1.5",
+        "pkg::any-sync-coordinator": "0.3.17",
+        "pkg::any-sync-filenode": "0.6.1",
+        "pkg::any-sync-node": "0.3.25"
+    },
+    "1712937270": {
+        "pkg::any-sync-consensusnode": "0.1.6",
+        "pkg::any-sync-coordinator": "0.3.20",
+        "pkg::any-sync-filenode": "0.6.2",
+        "pkg::any-sync-node": "0.3.26"
+    },
+    "1713284307": {
+        "pkg::any-sync-consensusnode": "0.1.6",
+        "pkg::any-sync-coordinator": "0.3.21",
+        "pkg::any-sync-filenode": "0.6.2",
+        "pkg::any-sync-node": "0.3.26"
+    },
+    "1713973553": {
+        "pkg::any-sync-consensusnode": "0.1.7",
+        "pkg::any-sync-coordinator": "0.3.22",
+        "pkg::any-sync-filenode": "0.6.4",
+        "pkg::any-sync-node": "0.3.27"
+    },
+    "1714052055": {
+        "pkg::any-sync-consensusnode": "0.1.7",
+        "pkg::any-sync-coordinator": "0.3.23",
+        "pkg::any-sync-filenode": "0.6.5",
+        "pkg::any-sync-node": "0.3.29"
+    },
+    "1714159480": {
+        "pkg::any-sync-consensusnode": "0.1.7",
+        "pkg::any-sync-coordinator": "0.3.23",
+        "pkg::any-sync-filenode": "0.6.5",
+        "pkg::any-sync-node": "0.3.30"
+    },
+    "1714395593": {
+        "pkg::any-sync-consensusnode": "0.1.7",
+        "pkg::any-sync-coordinator": "0.3.24",
+        "pkg::any-sync-filenode": "0.6.5",
+        "pkg::any-sync-node": "0.3.30"
+    },
+    "1714407541": {
+        "pkg::any-sync-consensusnode": "0.1.7",
+        "pkg::any-sync-coordinator": "0.3.25",
+        "pkg::any-sync-filenode": "0.6.5",
+        "pkg::any-sync-node": "0.3.30"
+    },
+    "1714495069": {
+        "pkg::any-sync-consensusnode": "0.1.7",
+        "pkg::any-sync-coordinator": "0.3.25",
+        "pkg::any-sync-filenode": "0.6.5",
+        "pkg::any-sync-node": "0.3.32"
+    },
+    "1715863845": {
+        "pkg::any-sync-consensusnode": "0.1.7",
+        "pkg::any-sync-coordinator": "0.3.25",
+        "pkg::any-sync-filenode": "0.6.5",
+        "pkg::any-sync-node": "0.3.34"
+    }
+}
